@@ -7,3 +7,5 @@ Use the following to load an image from an URL into an ImageView. You must speci
 ```
 Picnic.startDownload(myImageView, "http://path.to/the/image.jpg", 80, 80);
 ```
+
+For more information, please read the Javadoc.
